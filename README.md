@@ -18,7 +18,7 @@ To run the UnitConverter app on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/milindranjan/UnitConverter.git
+   git clone https://github.com/Milind-Ranjan/UnitConverter.git
    ```
 2. **Open the Project**:
    - Open Android Studio.
